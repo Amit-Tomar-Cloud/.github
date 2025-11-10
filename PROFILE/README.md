@@ -14,7 +14,7 @@ Together, these projects form a **scalable, secure, and automated cloud platform
 ---
 
 ##  Infrastructure Architecture
-<img width="1116" height="584" alt="Screenshot 2025-11-10 at 6 41 41 PM" src="https://github.com/user-attachments/assets/219a682f-48ba-49b5-b5c0-141e1cab50dc" />
+<img width="1116" height="584" alt="Cloud Infra Diagram" src="https://github.com/user-attachments/assets/3264eab9-0a0b-4321-a600-4e23af457a38" />
 
 **Architecture Highlights:**
 - Terraform-managed AWS resources  
